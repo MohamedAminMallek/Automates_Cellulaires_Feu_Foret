@@ -18,4 +18,4 @@ for fire_takes_corner in [False,True]:
     plt.ylabel('Arbres restants')
     filename = ("fire_takes_corner" if fire_takes_corner else "fire_can't_takes_corner") + ".png"
     plt.savefig(filename)
-    plt.show()
+    #plt.show()
