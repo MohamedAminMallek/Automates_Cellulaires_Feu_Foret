@@ -16,3 +16,5 @@ Ce dépôt contient 3 fichiers :
   C’est une simulation graphique en utilisant pygame en utilisant ces paramètres :
   - Densité 0.65.
   - Ne pas autoriser que les arbres des coins prennent feu.
+- ***execution***
+![alt text](https://github.com/MohamedAminMallek/Automates_Cellulaires_Feu_Foret/blob/master/readme_image_1.png?raw=true)
