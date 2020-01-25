@@ -18,3 +18,5 @@ Ce dépôt contient 3 fichiers :
   - Ne pas autoriser que les arbres des coins prennent feu.
 - ***execution***
 ![alt text](https://github.com/MohamedAminMallek/Automates_Cellulaires_Feu_Foret/blob/master/readme_image_1.png?raw=true)
+
+![alt text](https://github.com/MohamedAminMallek/Automates_Cellulaires_Feu_Foret/blob/master/readme_image2.gif?raw=true)
